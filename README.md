@@ -28,3 +28,4 @@ def circulate():
 ![gitlogo](circulate2.png)
 
 ## Result:
+Thus the circulating values are printed.
